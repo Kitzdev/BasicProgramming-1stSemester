@@ -1,4 +1,2 @@
 # MyProgramForCollegeTask
-This repository contains a program created for my college task.
-
-Note: I will only upload program that I think it is cool.
+This repository contains source code created for Basic Programming in my 1st Semester .
